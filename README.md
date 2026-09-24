@@ -29,7 +29,7 @@ The baseline approach filters extreme neighbor messages using a manually selecte
 | Metric | Poster-reported result |
 | --- | --- |
 | Much Improved Error | Reduced distance to NE by over **100000** times compared with baseline for settings with more adversarial agents |
-| Much Improved Corruption Removal | Reduced corruption in outgoing messages by **100000** times compared with baseline |
+| Much Improved Corruption Removal | Reduced corruption in outgoing messages by over **100000** times compared with baseline |
 | Enables Time Varying and Constrained Networks | Our method works in constrained optimization scenarios with time-varying networks |
 | Gradient-play convergence | **10× faster convergence** with Nesterov momentum than the constant-step-size update in the reported experiment. |
 
