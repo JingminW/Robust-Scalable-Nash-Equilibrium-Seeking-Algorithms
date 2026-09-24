@@ -1,4 +1,4 @@
-# Robost-Scalable-Nash-Equilibrium-Seeking-Algorithms
+# Robust-Scalable-Nash-Equilibrium-Seeking-Algorithms
 
 **Adversary-resilient and scalable gradient-play algorithms for time-varying multi-agent systems**
 
